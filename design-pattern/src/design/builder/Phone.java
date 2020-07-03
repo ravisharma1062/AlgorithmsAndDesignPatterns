@@ -2,7 +2,7 @@ package design.builder;
 
 public class Phone {
 
-	//required parameters
+	//required parameters 
 	private String screen;
 	private String battery;
 
