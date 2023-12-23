@@ -32,7 +32,7 @@ public class TestMain_1 {
 		Comparator<Movie> compRelease = (Movie m1, Movie m2) -> m1.getYear() - m2.getYear();
 		
 		//By Year
-		//movieList.sort(compRelease);
+		movieList.sort(compRelease);
 		
 		//By Year
 		//movieList.sort(compRating);
